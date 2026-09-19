@@ -1,0 +1,6 @@
+{
+  "name": "Dholera Residential Plot",
+  "description": "Verified residential and SCO plots in Dholera Smart City & Dholera SIR by Omana Projects. Government approved TP1 & TP4 schemes with clear title registry, instant brochure downloads, and site visit scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
